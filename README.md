@@ -1,2 +1,3 @@
-# don't mind me
-i use github just to archive my dots.
+# Oops!
+Oops, Missclick!
+I guess I have a GitHub profile now!
